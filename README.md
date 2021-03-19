@@ -8,7 +8,7 @@ Demo: https://gatsby-starter-wordpress.netlify.com/
 
 ## Use It Now
 
-    gatsby new NAME https://github.com/GatsbyCentral/gatsby-starter-wordpress
+    gatsby new NAME https://github.com/doodeck/gatsby-starter-wordpress
 
 * Edit `gatsby-config.js`, change `baseUrl`
   - Make sure you have at least 1 post and 1 page on your WordPress site
